@@ -6,4 +6,4 @@ A Computer Vision project centered around four tasks -
   * Detecting Facial Keypoints.
   * Facial Recognition.
   
-This project was inspired by the lectures and programming assignments in the [Deep Learning in Computer Vision course](https://www.coursera.org/learn/deep-learning-in-computer-vision) on Coursera by National Research University School of Economics.
+This project was inspired by the lectures and programming assignments in the [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision) course on Coursera by National Research University School of Economics.
