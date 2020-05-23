@@ -1,5 +1,6 @@
 <h1 align= "center"> Facial Recognition Project </h1>
 A Computer Vision project centered around four tasks - 
+
   * Face Alignment.
   * Face Detection (bounding boxes).
   * Detecting Facial Keypoints.
