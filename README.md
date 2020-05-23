@@ -1,4 +1,4 @@
-<h1 align= "center"> Facial Recognition Project </h1>
+<h1 align= "center"> Facial Recognition Project (Ongoing) </h1>
 A Computer Vision project centered around four tasks - 
 
   * Face Alignment.
